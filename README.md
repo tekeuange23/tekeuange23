@@ -1,16 +1,36 @@
-### Hi there 👋
+# 👋 Hi, my name is Ange
 
-<!--
-**tekeuange23/tekeuange23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Software Engineer. Passionate about computer science & artificial intelligence. Strongly believe in solving problems using data.</p></em>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/TekeuAnge">
+  <img align="left" alt="Ange TEKEU's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ange-tekeu-a155811b4/">
+  <img align="left" alt="Ange TEKEU's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=tekeuange23.tekeuange23)
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [`RestQA`](https://github.com/restqa)
+  - [`NodeSecure`](https://github.com/NodeSecure)
+
+- 💪 I’m currently practicing: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+- 🌱 I’m currently learning: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+ 
+- 👯 I’m looking/loving to collaborate on ...
+  - Tools for developers
+  - Artificial neural networks
+  - Security related tools
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=tekeuange23&theme=onedark)](https://github.com/tekeuange23) -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tekeuange23&show_icons=true&locale=en" alt="tekeuange23" /></p> -->
+
