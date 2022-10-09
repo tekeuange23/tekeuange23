@@ -31,6 +31,6 @@
   - Artificial neural networks
   - Security related tools
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tekeuange23&theme=onedark)](https://github.com/tekeuange23)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tekeuange23&show_icons=true&locale=en" alt="tekeuange23" /></p>
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=tekeuange23&theme=onedark)](https://github.com/tekeuange23) -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tekeuange23&show_icons=true&locale=en" alt="tekeuange23" /></p> -->
 
