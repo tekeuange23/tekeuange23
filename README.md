@@ -5,7 +5,7 @@
 <a href="https://twitter.com/TekeuAnge">
   <img align="left" alt="Ange TEKEU's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ange-tekeu-a155811b4/">
+<a href="https://www.linkedin.com/in/ange-tekeu/">
   <img align="left" alt="Ange TEKEU's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
