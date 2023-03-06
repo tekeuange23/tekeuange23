@@ -31,6 +31,14 @@
   - Neural Networks
   - Security related tools
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=tekeuange23&theme=onedark)](https://github.com/tekeuange23) -->
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tekeuange23&theme=onedark)](https://github.com/tekeuange23) 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tekeuange23&show_icons=true&locale=en" alt="tekeuange23" /></p>
+-->
 
+<p align="center">
+  <a href="https://github.com/tekeuange23">
+    <img alt="Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=tekeuange23&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=gotham" />
+    <img alt="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekeuange23&cache_seconds=86400&layout=compact&theme=gotham&langs_count=8&count_private=true&hide=html" />
+  </a>
+</p>
