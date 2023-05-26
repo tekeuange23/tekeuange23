@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! I'm Ange.</h1>
 
 <p align="center">
-  <em>An Engineer passionate about Computer Science & Artificial Intelligence.</em>
+  <em>An Engineer with a passion for Computer Science & Artificial Intelligence.</em>
 </p>  
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=tekeuange23.tekeuange23) -->
