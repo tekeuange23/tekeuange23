@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! I'm Ange.</h1>
+<h1 align="center">👋🏿 Hi! I'm Ange.</h1>
 
 <p align="center">
   <em>An Engineer with a passion for Computer Science & Artificial Intelligence.</em>
