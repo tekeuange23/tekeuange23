@@ -8,12 +8,11 @@
 
 <p align="center">
   <a href="https://github.com/tekeuange23">
-    <img alt="Github Stats" height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=tekeuange23&show_icons=true&count_private=true&cache_seconds=86400&theme=gotham"/>
-    <img alt="Most Used Languages" height="180em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekeuange23&cache_seconds=86400&layout=compact&theme=gotham&langs_count=10&count_private=true&hide=html,scss"/>
+    <img alt="GitHub Streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=tekeuange23&theme=gotham" />
+    <img alt="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekeuange23&cache_seconds=86400&layout=compact&theme=gotham&langs_count=10&count_private=true&hide=html,scss"/>
   </a>
 </p>
+
 
 <!-- -sigma-five -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=tekeuange23&theme=onedark)](https://github.com/tekeuange23)  -->
